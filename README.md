@@ -4,3 +4,5 @@ different Autohotkey Projects I've dabbled in
 * mydocs is a small app that opens Documents directory, which you can also pin to task bar.
 * domItbox/Itbox is a menu interface which generally comes with assorted applications in it's subdirectory and it's general purpose is computer maintenance and troubleshooting
 * wfclose will 'softly' close waterfox - can be used as a scheduled task.
+* killpr will delete all spool jobs waiting on a printer and restart the service
+* defPrinter will delete unnecessary printers such as 'OneNote' and XPS, and will set a default printer on computer startup by name.
