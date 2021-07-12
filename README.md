@@ -6,3 +6,4 @@ different Autohotkey Projects I've dabbled in
 * wfclose will 'softly' close waterfox - can be used as a scheduled task.
 * killpr will delete all spool jobs waiting on a printer and restart the service
 * defPrinter will delete unnecessary printers such as 'OneNote' and XPS, and will set a default printer on computer startup by name.
+* DoitRemotely will retrieve details on a remote computer, based on WMI.
