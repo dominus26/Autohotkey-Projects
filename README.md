@@ -7,3 +7,4 @@ different Autohotkey Projects I've dabbled in
 * killpr will delete all spool jobs waiting on a printer and restart the service
 * defPrinter will delete unnecessary printers such as 'OneNote' and XPS, and will set a default printer on computer startup by name.
 * DoitRemotely will retrieve details on a remote computer, based on WMI.
+* הצילו - backend user environment tool to help user tackle problems by himself. The program has a gui in Hebrew and is oriented mostly towards my work place programs and environment, but can easily be adapted to any work place (closing unresponsive programs, restarting outlook, closing all internet explorer windows, automating cleanup of processes and temporary files to make computer work faster and more.) 
